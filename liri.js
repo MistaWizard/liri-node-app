@@ -77,7 +77,7 @@ function findThem(thing) {
     axios.get(queryUrl).then(
         function (response) {
             for (j = 0; j < response.data.length; j++) {
-                date = moment(response.data[i].datetime).format("L")
+                date = moment(response.data[j].datetime).format("L")
                 let concertData = "\nVenue: " + response.data[j].venue.name + "\nLocation: " + response.data[j].venue.city + ", " + response.data[j].venue.region + " " + response.data[j].venue.country + "\nDate: " + date;
                 console.log(concertData)
                 logFile(concertData);
