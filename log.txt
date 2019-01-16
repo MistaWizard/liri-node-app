@@ -115,3 +115,1477 @@ Date: 02/26/2019
 Venue: Hard Rock Live Las Vegas
 Location: Las Vegas, NV United States
 Date: 02/26/2019
+
+Venue: Club Red
+Location: Mesa, AZ United States
+Date: 02/26/2019
+
+Venue: The Regent Theater
+Location: Los Angeles, CA United States
+Date: 02/26/2019
+
+Venue: Brick by Brick
+Location: San Diego, CA United States
+Date: 02/26/2019
+
+Venue: The UC Theatre Taube Family Music Hall
+Location: Berkeley, CA United States
+Date: 02/26/2019
+
+Venue: Dante's
+Location: Portland, OR United States
+Date: 02/26/2019
+
+Venue: Showbox SoDo
+Location: Seattle, WA United States
+Date: 02/26/2019
+
+Venue: The Complex 
+Location: Salt Lake City, UT United States
+Date: 02/26/2019
+
+Venue: Gothic Theatre
+Location: Englewood, CO United States
+Date: 02/26/2019
+
+Venue: The Granada
+Location: Lawrence, KS United States
+Date: 02/26/2019
+
+Venue: The Cabooze
+Location: Minneapolis, MN United States
+Date: 02/26/2019
+
+Venue: The Miramar Theatre
+Location: Milwaukee, WI United States
+Date: 02/26/2019
+
+Venue: Bottom Lounge
+Location: Chicago, IL United States
+Date: 02/26/2019
+
+Venue: Agora Theater & Ballroom
+Location: Cleveland, OH United States
+Date: 02/26/2019
+
+Venue: Buick City Event Center
+Location: Flint, MI United States
+Date: 02/26/2019
+
+Venue: Rex Theater
+Location: Pittsburgh, PA United States
+Date: 02/26/2019
+
+Venue: Theatre of The Living Arts
+Location: Philadelphia, PA United States
+Date: 02/26/2019
+
+Venue: Gramercy Theatre
+Location: New York, NY United States
+Date: 02/26/2019
+
+Venue: Brighton Music Hall
+Location: Boston, MA United States
+Date: 02/26/2019
+
+Venue: Baltimore Soundstage
+Location: Baltimore, MD United States
+Date: 02/26/2019
+
+Venue: The Underground
+Location: Charlotte, NC United States
+Date: 02/26/2019
+
+Venue: The Masquerade
+Location: Atlanta, GA United States
+Date: 02/26/2019
+
+Venue: Culture Room
+Location: Fort Lauderdale, FL United States
+Date: 02/26/2019
+
+Venue: The Orpheum
+Location: Tampa, FL United States
+Date: 02/26/2019
+
+Venue: House of Blues New Orleans
+Location: New Orleans, LA United States
+Date: 02/26/2019
+
+Venue: Scout Bar
+Location: Houston, TX United States
+Date: 02/26/2019
+
+Venue: Trees
+Location: Dallas, TX United States
+Date: 02/26/2019
+
+Venue: Come and Take It Live
+Location: Austin, TX United States
+Date: 02/26/2019
+
+Venue: Sunshine Theater
+Location: Albuquerque, NM United States
+Date: 02/26/2019
+
+Venue: Hard Rock Live Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/26/2019
+TypeError: Cannot read property 'datetime' of undefined
+TypeError: Cannot read property 'datetime' of undefined
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Altice Arena
+Location: Lisbon,  Portugal
+Date: 02/16/2019
+
+Venue: Wizink Arena
+Location: Madrid,  Spain
+Date: 02/16/2019
+
+Venue: Forum 
+Location: Milan,  Italy
+Date: 02/16/2019
+
+Venue: Palau San Jordi
+Location: Barcelona,  Spain
+Date: 02/16/2019
+
+Venue: Accorhotels
+Location: Paris,  France
+Date: 02/16/2019
+
+Venue: TUI Arena
+Location: Hannover,  Germany
+Date: 02/16/2019
+
+Venue: Sportpalais
+Location: Antwerp,  Belgium
+Date: 02/16/2019
+
+Venue: Ziggo Dome
+Location: Amsterdam,  Netherlands
+Date: 02/16/2019
+
+Venue: SAP Arena
+Location: Mannheim,  Germany
+Date: 02/16/2019
+
+Venue: Olympiahalle
+Location: Munich,  Germany
+Date: 02/16/2019
+
+Venue: Stadhalle
+Location: Vienna,  Austria
+Date: 02/16/2019
+
+Venue: Mercedes-Benz Arena
+Location: Berlin,  Germany
+Date: 02/16/2019
+
+Venue: Scandinavium
+Location: Gothenburg,  Sweden
+Date: 02/16/2019
+
+Venue: Spektrum
+Location: Oslo,  Norway
+Date: 02/16/2019
+
+Venue: Ericsson Globe
+Location: Stockholm,  Sweden
+Date: 02/16/2019
+
+Venue: Hartwell Arena
+Location: Helsinki,  Finland
+Date: 02/16/2019
+
+Venue: Royal Arena
+Location: Copenhagen,  Denmark
+Date: 02/16/2019
+
+Venue: Manchester Arena
+Location: Manchester,  United Kingdom
+Date: 02/16/2019
+
+Venue: 3Arena
+Location: Dublin,  Ireland
+Date: 02/16/2019
+
+Venue: Hydro Arena
+Location: Glasgow,  United Kingdom
+Date: 02/16/2019
+
+Venue: Barclaycard Arena
+Location: Birmingham,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: Lanxness Arena
+Location: Cologne,  Germany
+Date: 02/16/2019
+
+Venue: Hallenstadion
+Location: Zurich,  Switzerland
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: Prague,  Czech Republic
+Date: 02/16/2019
+
+Venue: Torwar Arena
+Location: Warsaw,  Poland
+Date: 02/16/2019
+
+Venue: Sports Arena
+Location: Budapest,  Hungary
+Date: 02/16/2019
+
+Venue: Capital One Arena
+Location: Washington, DC United States
+Date: 02/16/2019
+
+Venue: Bell Centre
+Location: Montreal,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Arena
+Location: Toronto,  Canada
+Date: 02/16/2019
+
+Venue: Xcel Energy Center
+Location: Minneapolis, MN United States
+Date: 02/16/2019
+
+Venue: Bell MTS Place
+Location: Winnipeg,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Saddledome
+Location: Calgary,  Canada
+Date: 02/16/2019
+
+Venue: Rogers Place
+Location: Edmonton,  Canada
+Date: 02/16/2019
+
+Venue: Pepsi Live at Rogers Arena
+Location: Vancouver,  Canada
+Date: 02/16/2019
+
+Venue: Angel of the Winds Arena
+Location: Seattle, WA United States
+Date: 02/16/2019
+
+Venue: Moda Center
+Location: Portland, OR United States
+Date: 02/16/2019
+
+Venue: Golden 1 Center
+Location: Sacramento, CA United States
+Date: 02/16/2019
+
+Venue: Staples Center
+Location: Los Angeles, CA United States
+Date: 02/16/2019
+
+Venue: SAP Center
+Location: San Jose, CA United States
+Date: 02/16/2019
+
+Venue: Honda Center
+Location: Anaheim, CA United States
+Date: 02/16/2019
+
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT United States
+Date: 02/16/2019
+
+Venue: Pepsi Center Arena
+Location: Denver, CO United States
+Date: 02/16/2019
+
+Venue: United Center
+Location: Chicago, IL United States
+Date: 02/16/2019
+
+Venue: Little Caesars Arena
+Location: Detroit, MI United States
+Date: 02/16/2019
+
+Venue: TD Garden
+Location: Boston, MA United States
+Date: 02/16/2019
+
+Venue: Barclays Center
+Location: New York, NY United States
+Date: 02/16/2019
+
+Venue: Wells Fargo Center
+Location: Philadelphia, PA United States
+Date: 02/16/2019
+
+Venue: Hersheypark Stadium
+Location: Hershey, PA United States
+Date: 02/16/2019
+
+Venue: PNC Arena
+Location: Raleigh, NC United States
+Date: 02/16/2019
+
+Venue: State Farm Arena
+Location: Atlanta, GA United States
+Date: 02/16/2019
+
+Venue: BB&T Center
+Location: Fort Lauderdale, FL United States
+Date: 02/16/2019
+
+Venue: Amway Center
+Location: Orlando, FL United States
+Date: 02/16/2019
+
+Venue: Bridgestone Arena
+Location: Nashville, TN United States
+Date: 02/16/2019
+
+Venue: FedEx Forum
+Location: Memphis, TN United States
+Date: 02/16/2019
+
+Venue: BOK Center
+Location: Tulsa, OK United States
+Date: 02/16/2019
+
+Venue: Smoothie King Center
+Location: New Orleans, LA United States
+Date: 02/16/2019
+
+Venue: Toyota Center
+Location: Houston, TX United States
+Date: 02/16/2019
+
+Venue: American Airlines Arena
+Location: Dallas, TX United States
+Date: 02/16/2019
+
+Venue: Cajundome
+Location: Lafayette, LA United States
+Date: 02/16/2019
+
+Venue: The Legacy Arena at the BJCC
+Location: Birmingham, AL United States
+Date: 02/16/2019
+
+Venue: Enterprise Center
+Location: St. Louis, MO United States
+Date: 02/16/2019
+
+Venue: Sprint Center
+Location: Kansas City, MO United States
+Date: 02/16/2019
+
+Venue: CHI Health Center
+Location: Omaha, NE United States
+Date: 02/16/2019
+
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, IN United States
+Date: 02/16/2019
+
+Venue: Fiserv Forum
+Location: Milwaukee, WI United States
+Date: 02/16/2019
+
+Venue: KFC Yum! Center
+Location: Louisville, KY United States
+Date: 02/16/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA United States
+Date: 02/16/2019
+
+Venue: Prudential Center
+Location: Newark, NJ United States
+Date: 02/16/2019
+TypeError: Cannot read property 'datetime' of undefined
+
+Venue: Club Red
+Location: Mesa, AZ United States
+Date: 02/26/2019
+
+Venue: The Regent Theater
+Location: Los Angeles, CA United States
+Date: 02/26/2019
+
+Venue: Brick by Brick
+Location: San Diego, CA United States
+Date: 02/26/2019
+
+Venue: The UC Theatre Taube Family Music Hall
+Location: Berkeley, CA United States
+Date: 02/26/2019
+
+Venue: Dante's
+Location: Portland, OR United States
+Date: 02/26/2019
+
+Venue: Showbox SoDo
+Location: Seattle, WA United States
+Date: 02/26/2019
+
+Venue: The Complex 
+Location: Salt Lake City, UT United States
+Date: 02/26/2019
+
+Venue: Gothic Theatre
+Location: Englewood, CO United States
+Date: 02/26/2019
+
+Venue: The Granada
+Location: Lawrence, KS United States
+Date: 02/26/2019
+
+Venue: The Cabooze
+Location: Minneapolis, MN United States
+Date: 02/26/2019
+
+Venue: The Miramar Theatre
+Location: Milwaukee, WI United States
+Date: 02/26/2019
+
+Venue: Bottom Lounge
+Location: Chicago, IL United States
+Date: 02/26/2019
+
+Venue: Agora Theater & Ballroom
+Location: Cleveland, OH United States
+Date: 02/26/2019
+
+Venue: Buick City Event Center
+Location: Flint, MI United States
+Date: 02/26/2019
+
+Venue: Rex Theater
+Location: Pittsburgh, PA United States
+Date: 02/26/2019
+
+Venue: Theatre of The Living Arts
+Location: Philadelphia, PA United States
+Date: 02/26/2019
+
+Venue: Gramercy Theatre
+Location: New York, NY United States
+Date: 02/26/2019
+
+Venue: Brighton Music Hall
+Location: Boston, MA United States
+Date: 02/26/2019
+
+Venue: Baltimore Soundstage
+Location: Baltimore, MD United States
+Date: 02/26/2019
+
+Venue: The Underground
+Location: Charlotte, NC United States
+Date: 02/26/2019
+
+Venue: The Masquerade
+Location: Atlanta, GA United States
+Date: 02/26/2019
+
+Venue: Culture Room
+Location: Fort Lauderdale, FL United States
+Date: 02/26/2019
+
+Venue: The Orpheum
+Location: Tampa, FL United States
+Date: 02/26/2019
+
+Venue: House of Blues New Orleans
+Location: New Orleans, LA United States
+Date: 02/26/2019
+
+Venue: Scout Bar
+Location: Houston, TX United States
+Date: 02/26/2019
+
+Venue: Trees
+Location: Dallas, TX United States
+Date: 02/26/2019
+
+Venue: Come and Take It Live
+Location: Austin, TX United States
+Date: 02/26/2019
+
+Venue: Sunshine Theater
+Location: Albuquerque, NM United States
+Date: 02/26/2019
+
+Venue: Hard Rock Live Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/26/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Altice Arena
+Location: Lisbon,  Portugal
+Date: 02/16/2019
+
+Venue: Wizink Arena
+Location: Madrid,  Spain
+Date: 02/16/2019
+
+Venue: Forum 
+Location: Milan,  Italy
+Date: 02/16/2019
+
+Venue: Palau San Jordi
+Location: Barcelona,  Spain
+Date: 02/16/2019
+
+Venue: Accorhotels
+Location: Paris,  France
+Date: 02/16/2019
+
+Venue: TUI Arena
+Location: Hannover,  Germany
+Date: 02/16/2019
+
+Venue: Sportpalais
+Location: Antwerp,  Belgium
+Date: 02/16/2019
+
+Venue: Ziggo Dome
+Location: Amsterdam,  Netherlands
+Date: 02/16/2019
+
+Venue: SAP Arena
+Location: Mannheim,  Germany
+Date: 02/16/2019
+
+Venue: Olympiahalle
+Location: Munich,  Germany
+Date: 02/16/2019
+
+Venue: Stadhalle
+Location: Vienna,  Austria
+Date: 02/16/2019
+
+Venue: Mercedes-Benz Arena
+Location: Berlin,  Germany
+Date: 02/16/2019
+
+Venue: Scandinavium
+Location: Gothenburg,  Sweden
+Date: 02/16/2019
+
+Venue: Spektrum
+Location: Oslo,  Norway
+Date: 02/16/2019
+
+Venue: Ericsson Globe
+Location: Stockholm,  Sweden
+Date: 02/16/2019
+
+Venue: Hartwell Arena
+Location: Helsinki,  Finland
+Date: 02/16/2019
+
+Venue: Royal Arena
+Location: Copenhagen,  Denmark
+Date: 02/16/2019
+
+Venue: Manchester Arena
+Location: Manchester,  United Kingdom
+Date: 02/16/2019
+
+Venue: 3Arena
+Location: Dublin,  Ireland
+Date: 02/16/2019
+
+Venue: Hydro Arena
+Location: Glasgow,  United Kingdom
+Date: 02/16/2019
+
+Venue: Barclaycard Arena
+Location: Birmingham,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: Lanxness Arena
+Location: Cologne,  Germany
+Date: 02/16/2019
+
+Venue: Hallenstadion
+Location: Zurich,  Switzerland
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: Prague,  Czech Republic
+Date: 02/16/2019
+
+Venue: Torwar Arena
+Location: Warsaw,  Poland
+Date: 02/16/2019
+
+Venue: Sports Arena
+Location: Budapest,  Hungary
+Date: 02/16/2019
+
+Venue: Capital One Arena
+Location: Washington, DC United States
+Date: 02/16/2019
+
+Venue: Bell Centre
+Location: Montreal,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Arena
+Location: Toronto,  Canada
+Date: 02/16/2019
+
+Venue: Xcel Energy Center
+Location: Minneapolis, MN United States
+Date: 02/16/2019
+
+Venue: Bell MTS Place
+Location: Winnipeg,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Saddledome
+Location: Calgary,  Canada
+Date: 02/16/2019
+
+Venue: Rogers Place
+Location: Edmonton,  Canada
+Date: 02/16/2019
+
+Venue: Pepsi Live at Rogers Arena
+Location: Vancouver,  Canada
+Date: 02/16/2019
+
+Venue: Angel of the Winds Arena
+Location: Seattle, WA United States
+Date: 02/16/2019
+
+Venue: Moda Center
+Location: Portland, OR United States
+Date: 02/16/2019
+
+Venue: Golden 1 Center
+Location: Sacramento, CA United States
+Date: 02/16/2019
+
+Venue: Staples Center
+Location: Los Angeles, CA United States
+Date: 02/16/2019
+
+Venue: SAP Center
+Location: San Jose, CA United States
+Date: 02/16/2019
+
+Venue: Honda Center
+Location: Anaheim, CA United States
+Date: 02/16/2019
+
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT United States
+Date: 02/16/2019
+
+Venue: Pepsi Center Arena
+Location: Denver, CO United States
+Date: 02/16/2019
+
+Venue: United Center
+Location: Chicago, IL United States
+Date: 02/16/2019
+
+Venue: Little Caesars Arena
+Location: Detroit, MI United States
+Date: 02/16/2019
+
+Venue: TD Garden
+Location: Boston, MA United States
+Date: 02/16/2019
+
+Venue: Barclays Center
+Location: New York, NY United States
+Date: 02/16/2019
+
+Venue: Wells Fargo Center
+Location: Philadelphia, PA United States
+Date: 02/16/2019
+
+Venue: Hersheypark Stadium
+Location: Hershey, PA United States
+Date: 02/16/2019
+
+Venue: PNC Arena
+Location: Raleigh, NC United States
+Date: 02/16/2019
+
+Venue: State Farm Arena
+Location: Atlanta, GA United States
+Date: 02/16/2019
+
+Venue: BB&T Center
+Location: Fort Lauderdale, FL United States
+Date: 02/16/2019
+
+Venue: Amway Center
+Location: Orlando, FL United States
+Date: 02/16/2019
+
+Venue: Bridgestone Arena
+Location: Nashville, TN United States
+Date: 02/16/2019
+
+Venue: FedEx Forum
+Location: Memphis, TN United States
+Date: 02/16/2019
+
+Venue: BOK Center
+Location: Tulsa, OK United States
+Date: 02/16/2019
+
+Venue: Smoothie King Center
+Location: New Orleans, LA United States
+Date: 02/16/2019
+
+Venue: Toyota Center
+Location: Houston, TX United States
+Date: 02/16/2019
+
+Venue: American Airlines Arena
+Location: Dallas, TX United States
+Date: 02/16/2019
+
+Venue: Cajundome
+Location: Lafayette, LA United States
+Date: 02/16/2019
+
+Venue: The Legacy Arena at the BJCC
+Location: Birmingham, AL United States
+Date: 02/16/2019
+
+Venue: Enterprise Center
+Location: St. Louis, MO United States
+Date: 02/16/2019
+
+Venue: Sprint Center
+Location: Kansas City, MO United States
+Date: 02/16/2019
+
+Venue: CHI Health Center
+Location: Omaha, NE United States
+Date: 02/16/2019
+
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, IN United States
+Date: 02/16/2019
+
+Venue: Fiserv Forum
+Location: Milwaukee, WI United States
+Date: 02/16/2019
+
+Venue: KFC Yum! Center
+Location: Louisville, KY United States
+Date: 02/16/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA United States
+Date: 02/16/2019
+
+Venue: Prudential Center
+Location: Newark, NJ United States
+Date: 02/16/2019
+
+Artist(s): "Weird Al" Yankovic
+Song Name: Tacky
+Preview Link: https://p.scdn.co/mp3-preview/98b7b511f1d1c3187a1488699e8fba55ec3fc5f6?cid=5325b4745f6747da825fa42b3c07a736
+Album: Mandatory Fun
+
+Artist(s): Sum 41
+Song Name: Fat Lip
+Preview Link: null
+Album: All Killer, No Filler
+
+Title: Troll 2
+Release Year: 1990
+IMDB rating: 2.8
+Rotten Tomatoes Rating: 6%
+Country: Italy, USA
+Language: English
+Plot: A family vacationing in a small town discovers the entire town is inhabited by goblins in disguise as humans, who plan to eat them.
+Actors: Michael Paul Stephenson, George Hardy, Margo Prey, Connie Young
+
+Title: Batman
+Release Year: 1989
+IMDB rating: 7.5
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5325b4745f6747da825fa42b3c07a736
+Album: The Hits--Chapter One
+
+Venue: Club Red
+Location: Mesa, AZ United States
+Date: 02/26/2019
+
+Venue: The Regent Theater
+Location: Los Angeles, CA United States
+Date: 02/26/2019
+
+Venue: Brick by Brick
+Location: San Diego, CA United States
+Date: 02/26/2019
+
+Venue: The UC Theatre Taube Family Music Hall
+Location: Berkeley, CA United States
+Date: 02/26/2019
+
+Venue: Dante's
+Location: Portland, OR United States
+Date: 02/26/2019
+
+Venue: Showbox SoDo
+Location: Seattle, WA United States
+Date: 02/26/2019
+
+Venue: The Complex 
+Location: Salt Lake City, UT United States
+Date: 02/26/2019
+
+Venue: Gothic Theatre
+Location: Englewood, CO United States
+Date: 02/26/2019
+
+Venue: The Granada
+Location: Lawrence, KS United States
+Date: 02/26/2019
+
+Venue: The Cabooze
+Location: Minneapolis, MN United States
+Date: 02/26/2019
+
+Venue: The Miramar Theatre
+Location: Milwaukee, WI United States
+Date: 02/26/2019
+
+Venue: Bottom Lounge
+Location: Chicago, IL United States
+Date: 02/26/2019
+
+Venue: Agora Theater & Ballroom
+Location: Cleveland, OH United States
+Date: 02/26/2019
+
+Venue: Buick City Event Center
+Location: Flint, MI United States
+Date: 02/26/2019
+
+Venue: Rex Theater
+Location: Pittsburgh, PA United States
+Date: 02/26/2019
+
+Venue: Theatre of The Living Arts
+Location: Philadelphia, PA United States
+Date: 02/26/2019
+
+Venue: Gramercy Theatre
+Location: New York, NY United States
+Date: 02/26/2019
+
+Venue: Brighton Music Hall
+Location: Boston, MA United States
+Date: 02/26/2019
+
+Venue: Baltimore Soundstage
+Location: Baltimore, MD United States
+Date: 02/26/2019
+
+Venue: The Underground
+Location: Charlotte, NC United States
+Date: 02/26/2019
+
+Venue: The Masquerade
+Location: Atlanta, GA United States
+Date: 02/26/2019
+
+Venue: Culture Room
+Location: Fort Lauderdale, FL United States
+Date: 02/26/2019
+
+Venue: The Orpheum
+Location: Tampa, FL United States
+Date: 02/26/2019
+
+Venue: House of Blues New Orleans
+Location: New Orleans, LA United States
+Date: 02/26/2019
+
+Venue: Scout Bar
+Location: Houston, TX United States
+Date: 02/26/2019
+
+Venue: Trees
+Location: Dallas, TX United States
+Date: 02/26/2019
+
+Venue: Come and Take It Live
+Location: Austin, TX United States
+Date: 02/26/2019
+
+Venue: Sunshine Theater
+Location: Albuquerque, NM United States
+Date: 02/26/2019
+
+Venue: Hard Rock Live Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/26/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/16/2019
+
+Venue: Altice Arena
+Location: Lisbon,  Portugal
+Date: 02/16/2019
+
+Venue: Wizink Arena
+Location: Madrid,  Spain
+Date: 02/16/2019
+
+Venue: Forum 
+Location: Milan,  Italy
+Date: 02/16/2019
+
+Venue: Palau San Jordi
+Location: Barcelona,  Spain
+Date: 02/16/2019
+
+Venue: Accorhotels
+Location: Paris,  France
+Date: 02/16/2019
+
+Venue: TUI Arena
+Location: Hannover,  Germany
+Date: 02/16/2019
+
+Venue: Sportpalais
+Location: Antwerp,  Belgium
+Date: 02/16/2019
+
+Venue: Ziggo Dome
+Location: Amsterdam,  Netherlands
+Date: 02/16/2019
+
+Venue: SAP Arena
+Location: Mannheim,  Germany
+Date: 02/16/2019
+
+Venue: Olympiahalle
+Location: Munich,  Germany
+Date: 02/16/2019
+
+Venue: Stadhalle
+Location: Vienna,  Austria
+Date: 02/16/2019
+
+Venue: Mercedes-Benz Arena
+Location: Berlin,  Germany
+Date: 02/16/2019
+
+Venue: Scandinavium
+Location: Gothenburg,  Sweden
+Date: 02/16/2019
+
+Venue: Spektrum
+Location: Oslo,  Norway
+Date: 02/16/2019
+
+Venue: Ericsson Globe
+Location: Stockholm,  Sweden
+Date: 02/16/2019
+
+Venue: Hartwell Arena
+Location: Helsinki,  Finland
+Date: 02/16/2019
+
+Venue: Royal Arena
+Location: Copenhagen,  Denmark
+Date: 02/16/2019
+
+Venue: Manchester Arena
+Location: Manchester,  United Kingdom
+Date: 02/16/2019
+
+Venue: 3Arena
+Location: Dublin,  Ireland
+Date: 02/16/2019
+
+Venue: Hydro Arena
+Location: Glasgow,  United Kingdom
+Date: 02/16/2019
+
+Venue: Barclaycard Arena
+Location: Birmingham,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: London,  United Kingdom
+Date: 02/16/2019
+
+Venue: Lanxness Arena
+Location: Cologne,  Germany
+Date: 02/16/2019
+
+Venue: Hallenstadion
+Location: Zurich,  Switzerland
+Date: 02/16/2019
+
+Venue: O2 Arena
+Location: Prague,  Czech Republic
+Date: 02/16/2019
+
+Venue: Torwar Arena
+Location: Warsaw,  Poland
+Date: 02/16/2019
+
+Venue: Sports Arena
+Location: Budapest,  Hungary
+Date: 02/16/2019
+
+Venue: Capital One Arena
+Location: Washington, DC United States
+Date: 02/16/2019
+
+Venue: Bell Centre
+Location: Montreal,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Arena
+Location: Toronto,  Canada
+Date: 02/16/2019
+
+Venue: Xcel Energy Center
+Location: Minneapolis, MN United States
+Date: 02/16/2019
+
+Venue: Bell MTS Place
+Location: Winnipeg,  Canada
+Date: 02/16/2019
+
+Venue: ScotiaBank Saddledome
+Location: Calgary,  Canada
+Date: 02/16/2019
+
+Venue: Rogers Place
+Location: Edmonton,  Canada
+Date: 02/16/2019
+
+Venue: Pepsi Live at Rogers Arena
+Location: Vancouver,  Canada
+Date: 02/16/2019
+
+Venue: Angel of the Winds Arena
+Location: Seattle, WA United States
+Date: 02/16/2019
+
+Venue: Moda Center
+Location: Portland, OR United States
+Date: 02/16/2019
+
+Venue: Golden 1 Center
+Location: Sacramento, CA United States
+Date: 02/16/2019
+
+Venue: Staples Center
+Location: Los Angeles, CA United States
+Date: 02/16/2019
+
+Venue: SAP Center
+Location: San Jose, CA United States
+Date: 02/16/2019
+
+Venue: Honda Center
+Location: Anaheim, CA United States
+Date: 02/16/2019
+
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT United States
+Date: 02/16/2019
+
+Venue: Pepsi Center Arena
+Location: Denver, CO United States
+Date: 02/16/2019
+
+Venue: United Center
+Location: Chicago, IL United States
+Date: 02/16/2019
+
+Venue: Little Caesars Arena
+Location: Detroit, MI United States
+Date: 02/16/2019
+
+Venue: TD Garden
+Location: Boston, MA United States
+Date: 02/16/2019
+
+Venue: Barclays Center
+Location: New York, NY United States
+Date: 02/16/2019
+
+Venue: Wells Fargo Center
+Location: Philadelphia, PA United States
+Date: 02/16/2019
+
+Venue: Hersheypark Stadium
+Location: Hershey, PA United States
+Date: 02/16/2019
+
+Venue: PNC Arena
+Location: Raleigh, NC United States
+Date: 02/16/2019
+
+Venue: State Farm Arena
+Location: Atlanta, GA United States
+Date: 02/16/2019
+
+Venue: BB&T Center
+Location: Fort Lauderdale, FL United States
+Date: 02/16/2019
+
+Venue: Amway Center
+Location: Orlando, FL United States
+Date: 02/16/2019
+
+Venue: Bridgestone Arena
+Location: Nashville, TN United States
+Date: 02/16/2019
+
+Venue: FedEx Forum
+Location: Memphis, TN United States
+Date: 02/16/2019
+
+Venue: BOK Center
+Location: Tulsa, OK United States
+Date: 02/16/2019
+
+Venue: Smoothie King Center
+Location: New Orleans, LA United States
+Date: 02/16/2019
+
+Venue: Toyota Center
+Location: Houston, TX United States
+Date: 02/16/2019
+
+Venue: American Airlines Arena
+Location: Dallas, TX United States
+Date: 02/16/2019
+
+Venue: Cajundome
+Location: Lafayette, LA United States
+Date: 02/16/2019
+
+Venue: The Legacy Arena at the BJCC
+Location: Birmingham, AL United States
+Date: 02/16/2019
+
+Venue: Enterprise Center
+Location: St. Louis, MO United States
+Date: 02/16/2019
+
+Venue: Sprint Center
+Location: Kansas City, MO United States
+Date: 02/16/2019
+
+Venue: CHI Health Center
+Location: Omaha, NE United States
+Date: 02/16/2019
+
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, IN United States
+Date: 02/16/2019
+
+Venue: Fiserv Forum
+Location: Milwaukee, WI United States
+Date: 02/16/2019
+
+Venue: KFC Yum! Center
+Location: Louisville, KY United States
+Date: 02/16/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA United States
+Date: 02/16/2019
+
+Venue: Prudential Center
+Location: Newark, NJ United States
+Date: 02/16/2019
+
+Artist(s): "Weird Al" Yankovic
+Song Name: Tacky
+Preview Link: https://p.scdn.co/mp3-preview/98b7b511f1d1c3187a1488699e8fba55ec3fc5f6?cid=5325b4745f6747da825fa42b3c07a736
+Album: Mandatory Fun
+
+Artist(s): Sum 41
+Song Name: Fat Lip
+Preview Link: null
+Album: All Killer, No Filler
+
+Title: Troll 2
+Release Year: 1990
+IMDB rating: 2.8
+Rotten Tomatoes Rating: 6%
+Country: Italy, USA
+Language: English
+Plot: A family vacationing in a small town discovers the entire town is inhabited by goblins in disguise as humans, who plan to eat them.
+Actors: Michael Paul Stephenson, George Hardy, Margo Prey, Connie Young
+
+Title: Batman
+Release Year: 1989
+IMDB rating: 7.5
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5325b4745f6747da825fa42b3c07a736
+Album: The Hits--Chapter One
+Invalid command. Please type any of the following commnds: concert-this, spotify-this-song, movie-this or do-what-it-says
