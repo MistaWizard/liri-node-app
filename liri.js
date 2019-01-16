@@ -75,7 +75,7 @@ function logFile(input) {
 function findThem(thing) {
     let queryUrl = "https://rest.bandsintown.com/artists/" + thing + "/events?app_id=codingbootcamp";
     axios.get(queryUrl).then(
-        function (response) {
+        function(response) {
             for (j = 0; j < response.data.length; j++) {
                 date = moment(response.data[j].datetime).format("L")
                 let concertData = "\nVenue: " + response.data[j].venue.name + "\nLocation: " + response.data[j].venue.city + ", " + response.data[j].venue.region + " " + response.data[j].venue.country + "\nDate: " + date;
@@ -93,7 +93,7 @@ function findThem(thing) {
 // Function to spotify the input song
 function spotifyThis(thing) {
 	spotify.search({ type: 'track', query: thing }).then(
-        function (response) {
+        function(response) {
             let songInfo = response.tracks.items;
             let songData = "\nArtist(s): " + songInfo[0].artists[0].name + "\nSong Name: " + songInfo[0].name + "\nPreview Link: " + songInfo[0].preview_url + "\nAlbum: " + songInfo[0].album.name;
             console.log(songData);
@@ -110,7 +110,7 @@ function spotifyThis(thing) {
 function movieThis(thing) {
     let queryUrl = "http://www.omdbapi.com/?t=" + thing + "&y=&plot=short&apikey=trilogy";
     axios.get(queryUrl).then(
-        function (response) {
+        function(response) {
             let movie = response.data;
             let movieData = "\nTitle: " + movie.Title + "\nRelease Year: " + movie.Year + "\nIMDB rating: " + movie.imdbRating + "\nRotten Tomatoes Rating: " + movie.Ratings[1].Value + "\nCountry: " + movie.Country + "\nLanguage: " + movie.Language + "\nPlot: " + movie.Plot + "\nActors: " + movie.Actors;
             console.log(movieData);

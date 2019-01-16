@@ -1821,3 +1821,12 @@ Date: 03/26/2019
 Venue: Hard Rock Live Las Vegas
 Location: Las Vegas, NV United States
 Date: 03/27/2019
+
+Title: The Man from U.N.C.L.E.
+Release Year: 2015
+IMDB rating: 7.3
+Rotten Tomatoes Rating: 66%
+Country: USA, UK
+Language: English, Russian, German, Italian
+Plot: In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.
+Actors: Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki
