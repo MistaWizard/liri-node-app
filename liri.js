@@ -29,28 +29,32 @@ function figureItOut(action, thing) {
 	// console.log(thing);
 
 	switch(action) {
-
+    // Does our action input === concert-this?
     case 'concert-this':
 		if(thing === undefined) {
 			thing = defaultBand;
 		}     
         findThem(thing);
         break;
+    // Does our action input === spotify-this-song?
 	case 'spotify-this-song':
 		if(thing === undefined) {
 			thing = defaultSong;
 		}     
         spotifyThis(thing);
         break;
+    // Does our action input === movie-this?
 	case 'movie-this':
 		if(thing === undefined) {
 			thing = defaultMovie;
 		}    
         movieThis(thing);
         break;
+    // Does our action input === do-what-it-says?
 	case 'do-what-it-says':
         doWhatItSays();
         break;
+    // If the action input doesn't match those choices, inform the user of their folly
 	default: 
         console.log("Invalid command. Please type any of the following commnds: concert-this, spotify-this-song, movie-this or do-what-it-says");
         logFile("Invalid command. Please type any of the following commnds: concert-this, spotify-this-song, movie-this or do-what-it-says");
