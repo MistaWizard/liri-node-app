@@ -1,22 +1,29 @@
 require("dotenv").config();
 
+// Our requirements
 const keys = require("./keys.js");
 const Spotify = require("node-spotify-api");
 const moment = require("moment");
 const axios = require("axios");
 const fs = require("fs");
+// Spotify keys
 const spotify = new Spotify(keys.spotify);
+// Log file
 const logPath = "log.txt";
+// Grab our command line inputs
 var action = process.argv[2];
 var thing = process.argv[3];
+// Default items when the user doesn't input a movie, song or band
 const defaultMovie = "Troll 2";
 const defaultSong = "Tacky";
 const defaultBand = "Orgy";
 
+// If our command line arguments go past [3], this will combine multiple words with a + in between to pass to our functions
 for (var i = 4; i < process.argv.length; i++) {
     thing += '+' + process.argv[i];
 };
 
+// Main function to run subfunction based on user input
 function figureItOut(action, thing) {
 
 	// console.log(thing);
@@ -50,6 +57,7 @@ function figureItOut(action, thing) {
     }
 };
 
+// Function to log our responses from our api calls
 function logFile(input) {
     let whatToLog = "\r\n" + input;
     fs.appendFileSync(logPath, whatToLog, function(err) {
@@ -59,6 +67,7 @@ function logFile(input) {
     });
 };
 
+// Find the bands function
 function findThem(thing) {
     let queryUrl = "https://rest.bandsintown.com/artists/" + thing + "/events?app_id=codingbootcamp";
     axios.get(queryUrl).then(
@@ -77,6 +86,7 @@ function findThem(thing) {
     });
 };
 
+// Function to spotify the input song
 function spotifyThis(thing) {
 	spotify.search({ type: 'track', query: thing }).then(
         function (response) {
@@ -92,6 +102,7 @@ function spotifyThis(thing) {
     });
 };
 
+// Function to look up our movie input
 function movieThis(thing) {
     let queryUrl = "http://www.omdbapi.com/?t=" + thing + "&y=&plot=short&apikey=trilogy";
     axios.get(queryUrl).then(
@@ -108,6 +119,7 @@ function movieThis(thing) {
     })
 };
 
+// Function to do the laziness
 function doWhatItSays() {
 	fs.readFile('random.txt', 'utf8', function(err, data) {
 		if (err) {
@@ -118,5 +130,5 @@ function doWhatItSays() {
 	});
 };
 
-
+// Calling our main function to run
 figureItOut(action, thing);

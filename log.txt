@@ -1,0 +1,117 @@
+
+
+Venue: Club Red
+Location: Mesa, AZ United States
+Date: 02/26/2019
+
+Venue: The Regent Theater
+Location: Los Angeles, CA United States
+Date: 02/26/2019
+
+Venue: Brick by Brick
+Location: San Diego, CA United States
+Date: 02/26/2019
+
+Venue: The UC Theatre Taube Family Music Hall
+Location: Berkeley, CA United States
+Date: 02/26/2019
+
+Venue: Dante's
+Location: Portland, OR United States
+Date: 02/26/2019
+
+Venue: Showbox SoDo
+Location: Seattle, WA United States
+Date: 02/26/2019
+
+Venue: The Complex 
+Location: Salt Lake City, UT United States
+Date: 02/26/2019
+
+Venue: Gothic Theatre
+Location: Englewood, CO United States
+Date: 02/26/2019
+
+Venue: The Granada
+Location: Lawrence, KS United States
+Date: 02/26/2019
+
+Venue: The Cabooze
+Location: Minneapolis, MN United States
+Date: 02/26/2019
+
+Venue: The Miramar Theatre
+Location: Milwaukee, WI United States
+Date: 02/26/2019
+
+Venue: Bottom Lounge
+Location: Chicago, IL United States
+Date: 02/26/2019
+
+Venue: Agora Theater & Ballroom
+Location: Cleveland, OH United States
+Date: 02/26/2019
+
+Venue: Buick City Event Center
+Location: Flint, MI United States
+Date: 02/26/2019
+
+Venue: Rex Theater
+Location: Pittsburgh, PA United States
+Date: 02/26/2019
+
+Venue: Theatre of The Living Arts
+Location: Philadelphia, PA United States
+Date: 02/26/2019
+
+Venue: Gramercy Theatre
+Location: New York, NY United States
+Date: 02/26/2019
+
+Venue: Brighton Music Hall
+Location: Boston, MA United States
+Date: 02/26/2019
+
+Venue: Baltimore Soundstage
+Location: Baltimore, MD United States
+Date: 02/26/2019
+
+Venue: The Underground
+Location: Charlotte, NC United States
+Date: 02/26/2019
+
+Venue: The Masquerade
+Location: Atlanta, GA United States
+Date: 02/26/2019
+
+Venue: Culture Room
+Location: Fort Lauderdale, FL United States
+Date: 02/26/2019
+
+Venue: The Orpheum
+Location: Tampa, FL United States
+Date: 02/26/2019
+
+Venue: House of Blues New Orleans
+Location: New Orleans, LA United States
+Date: 02/26/2019
+
+Venue: Scout Bar
+Location: Houston, TX United States
+Date: 02/26/2019
+
+Venue: Trees
+Location: Dallas, TX United States
+Date: 02/26/2019
+
+Venue: Come and Take It Live
+Location: Austin, TX United States
+Date: 02/26/2019
+
+Venue: Sunshine Theater
+Location: Albuquerque, NM United States
+Date: 02/26/2019
+
+Venue: Hard Rock Live Las Vegas
+Location: Las Vegas, NV United States
+Date: 02/26/2019
